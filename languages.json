@@ -1,0 +1,12 @@
+[
+  {
+    "language": "Plain Text",
+    "extensions": [".txt"],
+    "markers": [
+      {
+        "type": "line",
+        "pattern": "TODO[:\\s]?.*"
+      }
+    ]
+  }
+]
