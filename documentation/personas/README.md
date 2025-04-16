@@ -31,3 +31,6 @@ Located in [`./reader/`](./reader/):
 - Reader personas use prefix: `READER-PURPOSE-XXX`
   - PURPOSE can be: DEV (development), INSP (inspiration), EVAL (evaluation)
 - Always increment the highest existing number in each category 
+
+## Repository Notes
+- All commits are automatically pushed to the remote repository via git hooks 
